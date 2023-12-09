@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=amirkiaml&style=flat-square&color=blue)
 ![Header](./github-header-image.png)
 
 <!--
